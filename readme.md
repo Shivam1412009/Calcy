@@ -1,0 +1,1 @@
+This is a basic calculator app for daily taks:)
